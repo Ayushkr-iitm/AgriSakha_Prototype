@@ -1,2 +1,22 @@
-# AgriSakha_Prototype
-Voice-first AI solution for Indian farmers
+# AgriSakha AI - Farmer Assistance System
+
+![AgriSakha Architecture](docs/architecture.png) *(optional diagram)*
+
+An AI-powered solution for Indian farmers providing:
+- Voice-based agricultural advisory in 12+ Indian languages
+- Blockchain-based credit scoring using satellite data
+- Edge-computing enabled soil health analysis
+
+## Key Features
+✅ **Voice AI** - Works on basic phones via USSD/SMS/Voice  
+✅ **Financial Inclusion** - Alternative credit scoring for unbanked farmers  
+✅ **Localized Advice** - Crop/location-specific recommendations  
+✅ **Offline Capable** - Raspberry Pi integration for low-connectivity areas  
+
+## Technology Stack
+- **Voice Processing**: Mozilla TTS + Vosk ASR
+- **AI/ML**: TensorFlow Lite, IndicWhisper
+- **Blockchain**: Hyperledger Fabric (mock)
+- **Edge Computing**: Raspberry Pi + IoT sensors
+
+[Demo Video](https://example.com/demo) | [Technical Documentation](docs/ARCHITECTURE.md)
