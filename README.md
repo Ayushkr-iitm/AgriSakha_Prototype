@@ -1,7 +1,5 @@
 # AgriSakha AI - Farmer Assistance System
 
-![AgriSakha Architecture](docs/architecture.png) *(optional diagram)*
-
 An AI-powered solution for Indian farmers providing:
 - Voice-based agricultural advisory in 12+ Indian languages
 - Blockchain-based credit scoring using satellite data
