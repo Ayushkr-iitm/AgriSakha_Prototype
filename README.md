@@ -14,7 +14,7 @@ AgriSakha-Prototype/
 ├── docs/
 │   ├── INSTALL.md              # Setup instructions
 │   └── DEMO.md                 # How to test
-└── README.md                   # Project overview
+└── README.md                   # Project overview   can 
 
 An AI-powered solution for Indian farmers providing:
 - Voice-based agricultural advisory in 12+ Indian languages
