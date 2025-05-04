@@ -1,6 +1,20 @@
 # AgriSakha AI - Farmer Assistance System
 
-![AgriSakha Architecture](docs/architecture.png) *(optional diagram)*
+AgriSakha-Prototype/
+├── voice_ai/
+│   ├── core.py                 # Main voice processing
+│   └── requirements.txt        # voice_ai specific deps
+├── credit_scoring/
+│   ├── engine.py               # Credit scoring logic
+│   └── blockchain.py           # Hyperledger mock
+├── edge_computing/
+│   ├── soil.py                 # Soil analysis
+│   └── requirements.txt        # Edge deps
+├── data/                       # (Empty - for your datasets)
+├── docs/
+│   ├── INSTALL.md              # Setup instructions
+│   └── DEMO.md                 # How to test
+└── README.md                   # Project overview
 
 An AI-powered solution for Indian farmers providing:
 - Voice-based agricultural advisory in 12+ Indian languages
