@@ -36,4 +36,4 @@ An AI-powered solution for Indian farmers providing:
 - **Blockchain**: Hyperledger Fabric (mock)
 - **Edge Computing**: Raspberry Pi + IoT sensors
 
-[Demo Video](https://example.com/demo) | [Technical Documentation](docs/ARCHITECTURE.md)
+[Demo Video]- https://drive.google.com/file/d/1svmfhB1MxNLFZpHQSTt7EwOcr20cLPcA/view
