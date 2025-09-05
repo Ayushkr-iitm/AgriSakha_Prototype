@@ -211,7 +211,7 @@ We welcome contributions from developers, researchers, and agriculture experts. 
 * **Ayush Kumar Srivastava** - [email](ayushkrsrivastava2005@gmail.com)
 * **GitHub Repository:** [AgriSakha Prototype](https://github.com/Ayushkr-ittm/AgriSakha_Prototype)
 * **Report an Issue:** [AgriSakha Issues](https://github.com/Ayushkr-ittm/AgriSakha_Prototype/issues)
-* **Demo Video:** [Watch Demo](https://drive.google.com/drive/u/1/my-drive)
+* **Demo Video:** [Watch Demo](https://drive.google.com/file/d/1svmfhB1MxNLFZpHQSTt7EwOcr20cLPcA/view?usp=sharing)
 
 <div align="center">
   <hr>
