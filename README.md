@@ -15,43 +15,7 @@ AgriSakha AI is a revolutionary voice-first ecosystem that democratizes access t
 </p>
 
 <p align="center">
-  ### Architecture Diagram
-
-This diagram visualizes the flow of information from the farmer to the cloud and back.
-
-```mermaid
-graph TD
-    subgraph Farmer's Field (On-Device)
-        A[Feature Phone] -->|1. Voice Query / SMS| B;
-        C[IoT Soil Sensor] -->|2. Soil Data| B;
-    end
-
-    subgraph FPO Office (Edge Layer)
-        B[Raspberry Pi 4];
-        B -->|3. Speech-to-Text <br> (Vosk ASR)| D(Data Caching & Pre-processing);
-    end
-
-    subgraph Cloud Backend
-        E[Data Ingestion <br> (Apache Kafka)];
-        F[AI/ML Core <br> (IndicTrans NLP, TensorFlow)];
-        G[Blockchain <br> (Hyperledger Fabric)];
-        H[Satellite Analytics <br> (ISRO Bhuvan API)];
-        I[External Data APIs <br> (e-NAM, Soil Health)];
-        J[Response Generation <br> (Mozilla TTS)];
-
-        F <--> G;
-        F --> H;
-        F --> I;
-        E --> F;
-        F --> J;
-    end
-
-    D -->|4. Synchronize when online| E;
-    J -->|5. Voice Advisory / SMS| A;
-
-    style Farmer's Field fill:#f9f,stroke:#333,stroke-width:2px;
-    style FPO Office fill:#ccf,stroke:#333,stroke-width:2px;
-    style Cloud Backend fill:#cfc,stroke:#333,stroke-width:2px;
+  <img src="https://github.com/Ayushkr-iitm/AgriSakha_Prototype/blob/main/Untitled%20diagram%20_%20Mermaid%20Chart-2025-09-05-144614.png">
 </p>
 
 ---
