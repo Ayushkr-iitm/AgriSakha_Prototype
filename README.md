@@ -197,12 +197,6 @@ We welcome contributions from developers, researchers, and agriculture experts. 
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 * **ISRO** for satellite data access through the Bhuvan API.
@@ -214,11 +208,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Links
 
-* **Ayush Kumar Srivastava** - Team Leader - [email@example.com](mailto:email@example.com)
+* **Ayush Kumar Srivastava** - [email](ayushkrsrivastava2005@gmail.com)
 * **GitHub Repository:** [AgriSakha Prototype](https://github.com/Ayushkr-ittm/AgriSakha_Prototype)
 * **Report an Issue:** [AgriSakha Issues](https://github.com/Ayushkr-ittm/AgriSakha_Prototype/issues)
-* **Demo Video:** [Watch Demo](https://example.com)
-* **Full Prototype:** [Download Prototype](https://example.com)
+* **Demo Video:** [Watch Demo](https://drive.google.com/drive/u/1/my-drive)
 
 <div align="center">
   <hr>
